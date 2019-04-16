@@ -3,3 +3,6 @@ ProductsControllerTest#test_should_get_index:
 StoreControllerTest#test_should_get_index:
 
 rails dev:cache
+
+
+StoreControllerTest#test_should_get_index:
